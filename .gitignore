@@ -1,0 +1,8 @@
+build/
+.tools/
+*.p12
+*.keystore
+*.pass
+*.apk
+!apk/*.apk
+__pycache__/

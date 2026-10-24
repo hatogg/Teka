@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp" android:height="108dp"
+    android:viewportWidth="108" android:viewportHeight="108">
+    <group android:scaleX="1.1" android:scaleY="1.1" android:pivotX="54" android:pivotY="55">
+    <!-- задня частина теки з вушком -->
+    <path android:fillColor="#FFC98A1E"
+        android:pathData="M33,35 L46,35 L51.5,40.5 L75,40.5 A4,4 0 0 1 79,44.5 L79,71 A4,4 0 0 1 75,75 L33,75 A4,4 0 0 1 29,71 L29,39 A4,4 0 0 1 33,35 Z" />
+    <!-- аркуш усередині -->
+    <path android:fillColor="#FFF7EBD3"
+        android:pathData="M36,44 L72,44 L72,56 L36,56 Z" />
+    <!-- передня стулка -->
+    <path android:fillColor="#FFF4B740"
+        android:pathData="M27,50 L81,50 A2,2 0 0 1 82.9,52.6 L78.6,72.4 A4,4 0 0 1 74.7,75.5 L33.3,75.5 A4,4 0 0 1 29.4,72.4 L25.1,52.6 A2,2 0 0 1 27,50 Z" />
+    <!-- блискавка архіву -->
+    <path android:fillColor="#FF1C1B19"
+        android:pathData="M51,50 L54,50 L54,52 L51,52 Z M54,52 L57,52 L57,54 L54,54 Z M51,54 L54,54 L54,56 L51,56 Z M54,56 L57,56 L57,58 L54,58 Z M51,58 L54,58 L54,60 L51,60 Z M54,60 L57,60 L57,62 L54,62 Z M51,62 L54,62 L54,64 L51,64 Z M54,64 L57,64 L57,66 L54,66 Z M51.5,66 L56.5,66 A1.5,1.5 0 0 1 58,67.5 L58,71.5 A1.5,1.5 0 0 1 56.5,73 L51.5,73 A1.5,1.5 0 0 1 50,71.5 L50,67.5 A1.5,1.5 0 0 1 51.5,66 Z M52.5,68.5 L52.5,70.5 L55.5,70.5 L55.5,68.5 Z" />
+    </group>
+</vector>
